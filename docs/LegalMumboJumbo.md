@@ -5,7 +5,7 @@ description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- LegalMumboJumbo.md v1.0.0.0
-ZPE Propulsion (ZPEP)
+Zero Point Energy (ZPE)
 created: 17 Jul 2023
 updated: 
 
@@ -15,7 +15,7 @@ updated: 14 Apr 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
 
-## [ZPE Propulsion (ZPEP)][mod]
+## [Zero Point Energy (ZPE)][mod]
 
 [Home](./index.md)
 
@@ -64,4 +64,4 @@ updated: 14 Apr 2023 -->
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZPEPropulsion "ZPE Propulsion (ZPEP)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZeroPointEnergy "Zero Point Energy (ZPE)"
