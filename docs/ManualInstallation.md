@@ -5,7 +5,7 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- ManualInstallation.md v1.0.0.0
-ZPE Propulsion (ZPEP)
+Zero Point Energy (ZPE)
 created: 17 Jul 2023
 updated: 
 
@@ -14,7 +14,7 @@ created: 01 Feb 2022
 updated: 26 Apr 2023
 
 based upon work by Lisias -->
-## [ZPE Propulsion (ZPEP)][mod]
+## [Zero Point Energy (ZPE)][mod]
 
 [Home](./index.md)
 
@@ -28,25 +28,25 @@ You should be all good! (check for latest version on CurseForge)
 
 ### If Downloaded from CurseForge/OverWolf manual download
 
-To install, place the `ZPEPropulsion` folder inside your Kerbal Space Program's GameData folder:
+To install, place the `ZeroPointEnergy` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/RustyStar/ZPEPropulsion`
+  * Delete `<KSP_ROOT>/GameData/RustyStar/ZeroPointEnergy`
 * Extract the package's `RustyStar/` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/RustyStar` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/RustyStar/ZPEPropulsion`
+  * you should end up with `<KSP_ROOT>/GameData/RustyStar/ZeroPointEnergy`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * you should end up with `<KSP_ROOT>/GameData/RustyStar/ZPEPropulsion`
+  * you should end up with `<KSP_ROOT>/GameData/RustyStar/ZeroPointEnergy`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/RustyStar/ZPEPropulsion`
+  * you should end up with `<KSP_ROOT>/GameData/RustyStar/ZeroPointEnergy`
 
 ## The following file layout must be present after installation
 
@@ -61,7 +61,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
       + [Localization]
         ...
       ...
-      + [ZPEPropulsion]
+      + [ZeroPointEnergy]
         + [Assets]
           ...
         + [Compatibility]
@@ -86,7 +86,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         * changelog.md
         * ManualInstallation.htm
         * readme.htm
-        * ZPEPropulsion.version
+        * ZeroPointEnergy.version
       ...
     * ModuleManager.ConfigCache
   * KSP.log
@@ -100,4 +100,4 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZPEPropulsion "ZPE Propulsion (ZPEP)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZeroPointEnergy "Zero Point Energy (ZPE)"
