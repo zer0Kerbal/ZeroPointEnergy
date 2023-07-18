@@ -11,7 +11,7 @@ repository:
   name: ZPEPropulsion
 
   # A short description of the repository that will show up on GitHub
-  description: "This is standalone expansion to my Rusty Star Rockets mod. It adds parts for new propulsion system: ZPE (Zero Point Energy) propulsion system It also adds new fuel resource: Quantum Fluctuations. For Kerbal Space Program."
+  description: "This is standalone expansion to my Rusty Star Rockets mod. It adds eleven (11) parts for new propulsion system: ZPE (Zero Point Energy) all with Rusty Star Shipyard aesthetics. It also adds new fuel resource: Quantum Fluctuations. For Kerbal Space Program."
 
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/218476-*/
