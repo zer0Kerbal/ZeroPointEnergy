@@ -5,7 +5,7 @@ description: the flat-pack Kiea instructions, written in Kerbalese, unusally pre
 tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Disclaimer.md v1.0.0.0
-ZPE Propulsion (ZPEP)
+Zero Point Energy (ZPE)
 created: 17 Jul 2023
 updated: 
 
@@ -14,7 +14,7 @@ created: 17 Jul 2023
 updated: 27 Jun 2023
 
 based upon work by godarklight -->
-## [ZPE Propulsion (ZPEP)][mod]
+## [Zero Point Energy (ZPE)][mod]
 
 [Home](/index.md)
 
@@ -35,4 +35,4 @@ based upon work by godarklight -->
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZPEPropulsion "ZPE Propulsion (ZPEP)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZeroPointEnergy "Zero Point Energy (ZPE)"
