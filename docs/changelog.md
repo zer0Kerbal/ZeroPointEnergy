@@ -38,6 +38,8 @@ CC BY-ND 4.0 by zer0Kerbal -->
   * closes #14 - 0.2.0.0-release - `<Archival Release>`
   * updates #8 - Archival Releases
 
+---
+
 ## Version 0.1.0.0-release `<Archival>`
 
 * Released
