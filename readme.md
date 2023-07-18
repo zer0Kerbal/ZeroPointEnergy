@@ -102,7 +102,7 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 * [list][mlist] of other addons by [zer0Kerbal][zedK]
 
 * [Adjustable Mod Panel (KAMP)](https://curseforge.com/kerbal/ksp-mods/AdjustableModPanel)
-* [DRELite (DREL)](https://www.curseforge.com/kerbal/ksp-mods/drelite) <small><i>Start the game. Watch the firey death.</i></small>
+* [DRELite (DREL)](https://www.curseforge.com/kerbal/ksp-mods/drelite) <small><i>Start the game. Watch the fiery death.</i></small>
 * [Exception Detector (EXCD)](https://curseforge.com/kerbal/ksp-mods/ExceptionDetector)
 * [Gimbal Trim (TRIM)](https://curseforge.com/kerbal/ksp-mods/GimbalTrim)
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)](https://curseforge.com/kerbal/ksp-mods/GPOSpeedPump)
