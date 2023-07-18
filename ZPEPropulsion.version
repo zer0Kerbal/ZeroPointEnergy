@@ -1,12 +1,12 @@
 {
-	"NAME"		     : "ZPE Propulsion (ZPEP) by GagaX",
-	"URL"		     : "https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/ZPEPropulsion.version",
-	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/ZPEPropulsion/releases/latest",
-	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/changelog.md",
+	"NAME"		     : "Zero Point Energy (ZPE) by GagaX",
+	"URL"		     : "https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/ZeroPointEnergy.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/ZeroPointEnergy/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/changelog.md",
 	"GITHUB" :
 	{
 		"USERNAME"		  : "zer0Kerbal",
-		"REPOSITORY"		: "ZPEPropulsion",
+		"REPOSITORY"		: "ZeroPointEnergy",
 		"ALLOW_PRE_RELEASE" : false
 	},
 	"VERSION" :
@@ -36,7 +36,7 @@
 	},
 	"INSTALL_LOC" :
 	{
-		"NAME"     : "ZPEPropulsion",
-		"DIRECTORY": "RustyStar/ZPEPropulsion"
+		"NAME"     : "ZeroPointEnergy",
+		"DIRECTORY": "RustyStar/ZeroPointEnergy"
 	}
 }
