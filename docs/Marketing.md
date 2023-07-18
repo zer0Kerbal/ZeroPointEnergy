@@ -5,7 +5,7 @@ description: camera goes *click-click*
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Marketing.md v1.0.0.0
-ZPE Propulsion (ZPEP)
+Zero Point Energy (ZPE)
 created: 17 Jul 2023
 updated: 
 
@@ -22,13 +22,13 @@ this file:
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-## [ZPE Propulsion (ZPEP)][mod] <!-- omit from toc -->
+## [Zero Point Energy (ZPE)][mod] <!-- omit from toc -->
 
 This is standalone expansion to my Rusty Star Rockets mod. It adds eleven (11) parts for new propulsion system: ZPE (Zero Point Energy) all with Rusty Star Shipyard aesthetics. It also adds new fuel resource: Quantum Fluctuations. For Kerbal Space Program.
 
 [Home](./index.md)
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/docs/Marketing/logo.png" alt="Rusty Star Rockets Logo" width="25%" height="25%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/docs/Marketing/logo.png" alt="Rusty Star Rockets Logo" width="25%" height="25%">
 
 ## Table of Contents
 
@@ -43,33 +43,33 @@ This is standalone expansion to my Rusty Star Rockets mod. It adds eleven (11) p
 
 [top](#table-of-contents)
 
- <img src="https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/img/HeroLogo.png" alt="ZPEPropulsion Hero" width="50%" height="50%">
+ <img src="https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/img/HeroLogo.png" alt="ZeroPointEnergy Hero" width="50%" height="50%">
 
 ### Hero (v0.1.0.0)
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/docs/Marketing/HERO-01.png" alt="ZPEPropulsion (RSR)" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/docs/Marketing/HERO-01.png" alt="ZeroPointEnergy (RSR)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ### Hero (0.2.0.0)
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/docs/Marketing/HERO-02.jpg" alt="ZPEPropulsion (RSR)" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/docs/Marketing/HERO-02.jpg" alt="ZeroPointEnergy (RSR)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ### Marketing Slide
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/docs/Marketing/HERO-03.jpg" alt="ZPEPropulsion (RSR)" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/docs/Marketing/HERO-03.jpg" alt="ZeroPointEnergy (RSR)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
 ### Download banner (archive)
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/docs/Marketing/HERO-04.jpg" alt="ZPEPropulsion (RSR)" width="100%" height="100%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/docs/Marketing/HERO-04.jpg" alt="ZeroPointEnergy (RSR)" width="100%" height="100%">
 
 <small><i>[top](#table-of-contents)</i></small>
 
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZPEPropulsion "ZPE Propulsion (ZPEP)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZeroPointEnergy "Zero Point Energy (ZPE)"
