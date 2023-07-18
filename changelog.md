@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | ZPE Propulsion (ZPEP) by GagaX                                    |
+| modName    | Zero Point Energy (ZPE) by GagaX                                    |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-ND-4.0+ARR                                                  |
 | author     | GagaX and zer0Kerbal                                              |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/218476-*/) |
-| github     | (https://github.com/zer0Kerbal/ZPEPropulsion)                     |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ZPEPropulsion)        |
+| github     | (https://github.com/zer0Kerbal/ZeroPointEnergy)                     |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ZeroPointEnergy)        |
 | spacedock  | (https://spacedock.info/mod/270)                                  |
-| ckan       | ZPEPropulsion                                                     |
+| ckan       | ZeroPointEnergy                                                     |
 
 ## Version 0.2.0.0-release `<Archival>`
 
