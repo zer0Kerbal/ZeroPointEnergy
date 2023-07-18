@@ -5,7 +5,7 @@ description: Bill, what are going to do tonight? Why Jeb, the same thing we do e
 tags: parts,invoice,catalog,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- PartsCatalog.md v1.0.0.0
-ZPE Propulsion (ZPEP)
+Zero Point Energy (ZPE)
 created: 17 Jul 2023
 updated: 
 
@@ -15,7 +15,7 @@ updated: 01 May 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-## [ZPE Propulsion (ZPEP)][mod] <!-- omit from toc -->
+## [Zero Point Energy (ZPE)][mod] <!-- omit from toc -->
 
 [Home](./index.md)
 
@@ -33,7 +33,7 @@ This is standalone expansion to my Rusty Star Rockets mod. It adds eleven (11) p
 
 ---
 
- <!-- <img src="https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/docs/thumbs/ -->
+ <!-- <img src="https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/docs/thumbs/ -->
 
 ### Electrical
 
@@ -74,4 +74,4 @@ This is standalone expansion to my Rusty Star Rockets mod. It adds eleven (11) p
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZPEPropulsion "ZPE Propulsion (ZPEP)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZeroPointEnergy "Zero Point Energy (ZPE)"
