@@ -40,5 +40,5 @@
 * Creation by GagaX
 * initial release
 * Issues
-  * closes #13 - 0.1.0.0-release - `<Archival Release>`
   * updates #8 - Archival Releases
+  * closes #13 - 0.1.0.0-release - `<Archival Release>`
