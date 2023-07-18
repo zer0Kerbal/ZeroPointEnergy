@@ -5,7 +5,7 @@ description: The Opening Credits, and the closing credits, plus the first of two
 tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Attributions.md v1.0.0.0
-ZPE Propulsion (ZPEP)
+Zero Point Energy (ZPE)
 created: 17 Jul 2023
 updated: 
 
@@ -17,7 +17,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
 
-## [ZPE Propulsion (ZPEP)][mod]
+## [Zero Point Energy (ZPE)][mod]
 
 [Home](./index.md)
 
@@ -26,7 +26,7 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 ### Credits
 
 <ul>
-  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50px" height="50px" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/128502-*/" alt="ZPE Propulsion (ZPEP)"> ZPE Propulsion (ZPEP)</a></li>
+  <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/"><img alt="GagaX" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_12_2015/Rusty2_150px.png.1828a17115ddf26e224f4dd2bed4fda7.thumb.png.3b00d9038455e2ae006bca40a6cc0fca.png" width="50px" height="50px" > GagaX</a> for creating <a href="https://forum.kerbalspaceprogram.com/index.php?/topic/128502-*/" alt="Zero Point Energy (ZPE)"> Zero Point Energy (ZPE)</a></li>
   <li><a href="https://forum.kerbalspaceprogram.com/index.php?/profile/129964-*/"><img alt="linuxgurugamer" src="https://kerbal-forum-uploads.s3.us-west-2.amazonaws.com/monthly_2017_09/square_800x800.thumb.png.ab7375e7b1dbf21a10e5b8697a63fa5f.png" width="50px" height="50px" > linuxgurugamer</a> for handing these off to me!</li>
   <li><i>Thank you to everyone who gave feedback! It's very important for me and highly appreciated.</i></li>
 </ul>
@@ -81,4 +81,4 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 THIS FILE: CC BY-ND 4.0 by [zer0Kerbal](https://github.com/zer0Kerbal)
   used with express permission from zer0Kerbal
 
-[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZPEPropulsion "ZPE Propulsion (ZPEP)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/ZeroPointEnergy "Zero Point Energy (ZPE)"
