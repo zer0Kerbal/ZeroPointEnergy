@@ -1,5 +1,5 @@
 <!-- readme.md v0.9.99.0
-ZPE Propulsion (ZPEP)
+Zero Point Energy (ZPE)
 created: 23 Dec 2015
 updated: 17 Jul 2023
 
@@ -10,9 +10,9 @@ updated: 11 Jun 2023
 THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 <small><i> — post will self update; latest readme always on GitHub. most images are links —</i></small>
 
-# [ZPE Propulsion (ZPEP)][CURSFG:url]
+# [Zero Point Energy (ZPE)][CURSFG:url]
 
-[![ZPE Propulsion (ZPEP)][SHD:mod]][CURSFG:url]  
+[![Zero Point Energy (ZPE)][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url] [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
@@ -22,7 +22,7 @@ This is standalone expansion to my Rusty Star Rockets mod. It adds eleven (11) p
 
 adopted with *express* permission and brought to you by *KerbSimpleCo*
 
-<img src="https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/img/HeroLogo.png" alt="ZPE Propulsion (ZPEP) Hero" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/img/HeroLogo.png" alt="Zero Point Energy (ZPE) Hero" width="50%" height="50%">
 
 ### Preamble by [`GagaX`][auth-link]
 
@@ -92,9 +92,9 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 * by [Rusty Star Shipyards (RSS)](https://curseforge.com/kerbal/ksp-mods/RustyStarShipyards)
   * [Rusty Star Rockets (RSR)](https://curseforge.com/kerbal/ksp-mods/RustyStarRockets)
-  * [Pirates of the Keribbean (PoK)](https://curseforge.com/kerbal/ksp-mods/ZPEPropulsion)
+  * [Pirates of the Keribbean (PoK)](https://curseforge.com/kerbal/ksp-mods/ZeroPointEnergy)
   * [Rusty Textures for Procedural Parts (RTP)](https://curseforge.com/kerbal/ksp-mods/RustyTexturesforProceduralParts)
-  * [ZPE Propulsion System (ZPE)](https://curseforge.com/kerbal/ksp-mods/ZPEPropulsionSystem)
+  * [ZPE Propulsion System (ZPE)](https://curseforge.com/kerbal/ksp-mods/ZeroPointEnergySystem)
   * [Rusty Panels (RP)](https://curseforge.com/kerbal/ksp-mods/RustyPanels) by [Sooner266](https://forum.kerbalspaceprogram.com/index.php?/profile/107575-*/)
 
 #### Suggests
@@ -172,19 +172,19 @@ Comment, click, like, share, up-vote, subscribe
 [![Support][PAYPAL:img]][PAYPAL:url] [![Patreon][PATREON:img]][PATREON:url]
 
 <!-- links -->
-[attrb]: https://zer0kerbal.github.io/ZPEPropulsion/Attributions "Attribution"
-[chlog]: https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/changelog.md  "Changelog"
-[discu]: https://github.com/zer0Kerbal/ZPEPropulsion/discussions "Discussions"
-[forum]: https://forum.kerbalspaceprogram.com/topic/218476-*/ "ZPE Propulsion (ZPEP)"
-[issue]: https://github.com/zer0Kerbal/ZPEPropulsion/issues "Issues"
-[markt]: https://zer0kerbal.github.io/ZPEPropulsion/Marketing "Marketing Slicks"
+[attrb]: https://zer0kerbal.github.io/ZeroPointEnergy/Attributions "Attribution"
+[chlog]: https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/changelog.md  "Changelog"
+[discu]: https://github.com/zer0Kerbal/ZeroPointEnergy/discussions "Discussions"
+[forum]: https://forum.kerbalspaceprogram.com/topic/218476-*/ "Zero Point Energy (ZPE)"
+[issue]: https://github.com/zer0Kerbal/ZeroPointEnergy/issues "Issues"
+[markt]: https://zer0kerbal.github.io/ZeroPointEnergy/Marketing "Marketing Slicks"
 [mlist]: https://zer0kerbal.github.io/zer0Kerbal/AddonListing.html "zer0Kerbal mod list"
-[notic]: https://zer0kerbal.github.io/ZPEPropulsion/Notices "Notices"
-[pages]: https://zer0kerbal.github.io/ZPEPropulsion "GitHub Pages"
-[parts]: https://zer0kerbal.github.io/ZPEPropulsion/PartsCatalog "Parts Catalog"
+[notic]: https://zer0kerbal.github.io/ZeroPointEnergy/Notices "Notices"
+[pages]: https://zer0kerbal.github.io/ZeroPointEnergy "GitHub Pages"
+[parts]: https://zer0kerbal.github.io/ZeroPointEnergy/PartsCatalog "Parts Catalog"
 
 <!--- shields -->
-[SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/json/mod.json
+[SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/json/mod.json
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod and license provenance -->
@@ -198,21 +198,21 @@ Comment, click, like, share, up-vote, subscribe
 
 [LIC:url]: https://creativecommons.org/licenses/by-nd/4.0/ "CC BY-ND 4.0+ARR"
 [LIC:log]: https://licensebuttons.net/i/l/by-nd/transparent/33/66/99/76x22.png "CC BY-ND 4.0+ARR"
-[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/json/license.json "CC BY-ND 4.0+ARR"
+[LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/json/license.json "CC BY-ND 4.0+ARR"
 
 [LIC:sp:url]: https://en.wikipedia.org/wiki/All_rights_reserved "All Rights Reserved"
 [LIC:sp:shd]: https://img.shields.io/badge/License-All%20Rights%20Reserved-white?labelColor=black&style=plastic "All Rights Reserved"
 
 <!--- release links -->
-[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/ZPEPropulsion "Curseforge"
+[CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/ZeroPointEnergy "Curseforge"
 [CURSFG:shd]: https://img.shields.io/badge/CurseForge-Link-CCFF00.svg?labelColor=6441A4&style=plastic&logo=curseforge "Curseforge"
 
-[GITHUB:url]: https://github.com/zer0Kerbal/ZPEPropulsion/ "GitHub"
+[GITHUB:url]: https://github.com/zer0Kerbal/ZeroPointEnergy/ "GitHub"
 [GITHUB:shd]: https://img.shields.io/badge/Github-Link-CCFF00.svg?labelColor=181717&style=plastic&logo=github "GitHub"
 
 <!-- Kerbal Space Program -->
 [KSP:url]: https://kerbalspaceprogram.com/ "Kerbal Space Program"
-[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ZPEPropulsion/master/json/ksp.json "Kerbal Space Program"
+[KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ZeroPointEnergy/master/json/ksp.json "Kerbal Space Program"
 
 <!-- links -->
 [auth-link]: https://forum.kerbalspaceprogram.com/index.php?/profile/57813-*/ "GagaX"
@@ -234,6 +234,6 @@ Comment, click, like, share, up-vote, subscribe
 
 #### Connect with me
 
-Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/ZPEPropulsion/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/ZeroPointEnergy/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zedk] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | steam" width="32px" src="https://icons.iconarchive.com/icons/3xhumed/mega-games-pack-05/48/Steam-icon.png" />][steam] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter] [<img align="left" alt="zer0Kerbal | project list" width="32px" src="https://www.pngall.com/wp-content/uploads/5/Vector-Checklist-PNG-HD-Image-180x180.png" />][projects]</br>
